@@ -9,5 +9,5 @@ This is my attempt at the **House Prices - Advanced Regression Techniques** Kagg
 4. **Submission**: Generated predictions and submitted to Kaggle.
 
 ## Results
-Best model achieved an **RMSLE** of `X.XXXX`. 
+Best model achieved an **RMSLE** of `X.XXXX`.  
 Achieved `XX.XX`% accuracy on the test set.
