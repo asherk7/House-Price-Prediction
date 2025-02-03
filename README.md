@@ -10,5 +10,5 @@ This is my attempt at the **House Prices - Advanced Regression Techniques** Kagg
 
 ## Results
 Best model achieved an **RMSLE** of `0.228`.  
-Achieved `0.13375` accuracy on the test set.  
-Came in the top 5% of the Kaggle Submission Leaderboard.
+My best score achieved on the Kaggle Leaderboard: `0.13375`
+Came in the top 25% of the Kaggle Rolling Leaderboard.
