@@ -1,6 +1,6 @@
 # House Prices - Kaggle Competition
 
-This is my attempt at the **House Prices - Advanced Regression Techniques** Kaggle competition. The goal is to predict home sale prices using regression models like Random Forests and Gradient Boosting.
+This is my attempt at the **House Prices - Advanced Regression Techniques** Kaggle competition. The goal is to predict home sale prices using regression models.
 
 ## Steps
 1. **EDA**: Explored data distributions and missing values.
@@ -10,5 +10,5 @@ This is my attempt at the **House Prices - Advanced Regression Techniques** Kagg
 
 ## Results
 Best model achieved an **RMSLE** of `0.228`.  
-My best score achieved on the Kaggle Leaderboard: `0.13375`
+My best score achieved on the Kaggle Leaderboard: `0.13375`  
 Came in the top 25% of the Kaggle Rolling Leaderboard.
