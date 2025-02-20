@@ -9,5 +9,5 @@ This is my attempt at the **House Prices - Advanced Regression Techniques** Kagg
 4. **Submission**: Generated predictions and submitted to Kaggle.
 
 ## Results
-My best score achieved on the Kaggle Leaderboard: `0.13321`  
+My best score achieved on the Kaggle Leaderboard: `0.13295`  
 Came in the top 25% of the Kaggle Rolling Leaderboard.
